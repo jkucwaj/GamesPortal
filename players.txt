@@ -1,0 +1,3 @@
+Zeus - Highest Score: 5
+Hera - Highest Score: 4
+Poseidon - Highest Score: 6
