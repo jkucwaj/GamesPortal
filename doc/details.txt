@@ -1,0 +1,8 @@
+username: Hera
+password: pomegranate
+
+username: Zeus
+password: thunder
+
+username: Poseidon
+password: storm
